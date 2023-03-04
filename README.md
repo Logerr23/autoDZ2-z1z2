@@ -1,0 +1,1 @@
+# CI [![Build status](https://ci.appveyor.com/api/projects/status/6l7vd9iecys85wsm?svg=true)](https://ci.appveyor.com/project/Logerr23/autodz2-z1z2)
